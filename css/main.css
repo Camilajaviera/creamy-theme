@@ -1,0 +1,61 @@
+.letra-rosa{
+	color: #da2c38;
+}
+.letra-clara{
+	color:  #f4f0bb;
+}
+/*------*/
+.barra{
+	background-color: #da2c38;
+	height: 50px;
+}
+.naveg{
+	margin-left: 4%;
+    float: right;
+    margin-top: 1%;
+    font-size: 13px;
+}
+.fondo{
+	background-image: url(../img/creamy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    background-blend-mode: color;
+    background-origin: border-box;
+    background-color: rgba(0, 0, 0, 0.6);
+    background-position: center;
+}
+.creamy{
+	margin-top: 9%;
+}
+.creamy2{
+    font-size: 19px;
+}
+.fondo2{
+	background-color: #f4f0bb;
+	padding-bottom: 5%;
+}
+.ice{
+	width: 100%;
+	margin-top: 5%;
+}
+
+.fondo3{
+	background-color: #da2c38;
+	padding-bottom: 4%;
+}
+.tercero{
+	margin-top: 4%;
+}
+.fondo4{
+	background-color:  #f4f0bb;
+	padding-bottom: 50px;
+}
+.fondo5{
+	background-color: #da2c38;
+	padding-bottom: 2%;
+}
+.pie{
+	margin-left: 8%;
+	margin-top: 4%;
+}
