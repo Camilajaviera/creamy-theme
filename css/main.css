@@ -5,15 +5,15 @@
 	color:  #f4f0bb;
 }
 /*------*/
-.barra{
+nav{
 	background-color: #da2c38;
-	height: 50px;
+	height: 62px;
 }
-.naveg{
-	margin-left: 4%;
-    float: right;
-    margin-top: 1%;
-    font-size: 13px;
+.navbar-toggle{
+	border: 1px solid #f4f0bb;
+}
+.icon-bar{
+	background-color: #f4f0bb;
 }
 .fondo{
 	background-image: url(../img/creamy.jpg);
@@ -24,6 +24,7 @@
     background-origin: border-box;
     background-color: rgba(0, 0, 0, 0.6);
     background-position: center;
+    margin-top: -20px;
 }
 .creamy{
 	margin-top: 9%;
@@ -50,6 +51,21 @@
 .fondo4{
 	background-color:  #f4f0bb;
 	padding-bottom: 50px;
+}
+.icons1{
+	color: #da2c38;
+	margin-left: 37%;
+    font-size: 92px;
+}
+.icons2{
+	margin-left: 37%;
+	color: #da2c38;
+	font-size: 92px;
+}
+.icons3{
+	margin-left: 38%;
+	color: #da2c38;
+	font-size: 92px;
 }
 .fondo5{
 	background-color: #da2c38;
